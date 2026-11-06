@@ -1,0 +1,33 @@
+# Project Context — PYQ Predictor
+
+_Last recorded architecture decision: 2026-11-07. Planning reference; not a report of implemented model work._
+
+## Goal
+
+Build an independent long-term RBI Grade B PYQ analysis and original practice-question generation research project.
+
+## Repository boundary
+
+- Working folder: `~/projects/rbi-app/question-predictor`
+- GitHub: `cleanerAbhigyan/question-predictor`
+- Future downstream consumer: `cleanerAbhigyan/rbi-mock-app`
+- Independent repositories; no monorepo, package sharing or direct runtime dependency.
+
+## Data and methodology
+
+1. Source available historical papers and independently validate provenance, readability, phase/year/paper and answer keys.
+2. Normalize questions with stable source and question IDs; record missing, ambiguous and memory-based content honestly.
+3. Extract historical topic evidence only from the actually available corpus.
+4. Blind-backtest on held-out historical years; save forecasts before reviewing the test-year data.
+5. Generate explicitly original practice questions only after research validation; classify them as generated practice, never PYQs.
+6. Prepare a future versioned JSON export with source category, model/run ID, provenance, answer key, verification and review status. The simulator imports *approved* records later, through validation.
+
+## Status
+
+Future-phase research specification. No corpus, prediction implementation, completed backtest or scoring result is asserted.
+
+## Development continuity
+
+Read the Notion **LLM PYQ Prediction** and **PYQ Analysis** specifications when available. Keep this repo's README, PROJECT_CONTEXT, ROADMAP, DEVELOPMENT_LOG and sanitized prompts current. After each actual coding milestone: inspect Git/remote, test, document, commit and push. Report branch/SHA and failures. Treat GitHub as code truth and Notion as requirement truth; ChatGPT checks both when asked. There is no automatic real-time three-way sync.
+
+Avoid publishing secrets or restricted source papers in this public repository.
