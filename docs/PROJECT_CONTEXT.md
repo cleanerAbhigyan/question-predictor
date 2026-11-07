@@ -10,6 +10,7 @@ Build an independent long-term RBI Grade B PYQ analysis and original practice-qu
 
 - Working folder: `~/projects/rbi-app/question-predictor`
 - GitHub: `cleanerAbhigyan/question-predictor`
+- Active development branch: `feature`; persist this branch across milestones, with one later PR into `main`. Do not merge without explicit user approval.
 - Future downstream consumer: `cleanerAbhigyan/rbi-mock-app`
 - Independent repositories; no monorepo, package sharing or direct runtime dependency.
 
@@ -24,10 +25,12 @@ Build an independent long-term RBI Grade B PYQ analysis and original practice-qu
 
 ## Status
 
-Future-phase research specification. No corpus, prediction implementation, completed backtest or scoring result is asserted.
+Future-phase research specification. The `feature` branch exists and `docs/CODEX_NEXT_TASK.md` links the Phase 0 planning/foundation task. This is **not** evidence of a corpus, prediction model, completed backtest, scored result, implementation of Phase 0 or any mock-app integration.
 
 ## Development continuity
 
-Read the Notion **LLM PYQ Prediction** and **PYQ Analysis** specifications when available. Keep this repo's README, PROJECT_CONTEXT, ROADMAP, DEVELOPMENT_LOG and sanitized prompts current. After each actual coding milestone: inspect Git/remote, test, document, commit and push. Report branch/SHA and failures. Treat GitHub as code truth and Notion as requirement truth; ChatGPT checks both when asked. There is no automatic real-time three-way sync.
+ChatGPT writes complete sanitized development prompts to `docs/prompts/` on the `feature` branch and updates `docs/CODEX_NEXT_TASK.md`. The VS Code agent receives a **short trigger instruction**, safely pulls the current branch, reads the full GitHub task and `AGENTS.md`, implements only that milestone, runs tests, documents, commits and pushes to the same branch/PR. After completion it marks the task **Completed — awaiting next task**; ChatGPT reviews the actual diff/CI before treating it as done.
+
+Read the Notion **LLM PYQ Prediction** and **PYQ Analysis** specifications when available. Maintain README, PROJECT_CONTEXT, ROADMAP, DEVELOPMENT_LOG and sanitized prompts. Report branch/SHA/push failures. Treat GitHub as code truth and Notion as requirement truth; ChatGPT checks both when asked. There is no automatic real-time three-way sync.
 
 Avoid publishing secrets or restricted source papers in this public repository.
