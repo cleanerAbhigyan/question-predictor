@@ -1,0 +1,39 @@
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+*.pem
+*.key
+credentials.json
+secrets/
+
+# Python environments, tooling caches and operating-system files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.DS_Store
+
+# All research inputs/outputs remain local until separately reviewed for release.
+# Ignore rules are a convenience, not a rights review or a secret scanner.
+/data/
+/local/
+/raw/
+/restricted/
+/datasets/
+/artifacts/
+/runs/
+/exports/
+*.pdf
+*.zip
+*.sqlite
+*.sqlite3

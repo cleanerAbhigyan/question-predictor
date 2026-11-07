@@ -1,10 +1,12 @@
 # Current Codex task — question-predictor
 
-**Status:** Ready for implementation (not completed).
+**Status:** Completed — awaiting next task.
 **Task:** Phase 0 — Repository foundation and technical research specification.
 **Full instructions:** [Phase 0 Codex implementation task](prompts/2026-11-07-phase-0-repo-foundation.md)
 **Repository:** [cleanerAbhigyan/question-predictor](https://github.com/cleanerAbhigyan/question-predictor)
 **Active branch:** `feature` (already exists). Do not create a new branch.
+
+**Completion evidence:** Phase 0 documentation and repository checks are recorded in [DEVELOPMENT_LOG.md](DEVELOPMENT_LOG.md). The linked prompt is retained unchanged as the historical specification. No model, corpus or backtest was implemented. Stop here until a new task is published; do not begin Phase 1.
 
 ## Codex execution procedure
 

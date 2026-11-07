@@ -20,3 +20,13 @@ For every actual development milestone:
 8. Do not publish secrets, personal information, restricted papers or redistribution-prohibited data.
 
 Notion is the authoritative research/planning specification, GitHub is the implementation record, and ChatGPT reconciles both when asked. No automatic real-time three-way synchronization is implied. Current notices, data availability and progress must be verified rather than assumed.
+
+## Phase 0 foundation and handoff
+
+The proposed research contracts live in [Architecture](docs/ARCHITECTURE.md), [Data schema](docs/DATA_SCHEMA.md), [Source verification](docs/SOURCE_VERIFICATION.md), [Backtest protocol](docs/BACKTEST_PROTOCOL.md) and [Export contract](docs/EXPORT_CONTRACT.md). They are designs, not implemented validators or running services. Read the [roadmap](docs/ROADMAP.md) before future implementation, but never select its next phase without a newly published task.
+
+Keep source category, source authentication, transcription verification, answer correctness and usage rights separate. Unknown values must remain unknown. Never infer redistribution permission from an official-looking source or a readable download. Examples must use an explicit example-only marker and reserved `EXAMPLE-` identifiers, and must fail historical-PYQ admission.
+
+Keep Phase I separate from Phase II; within Phase II isolate ESI, Finance & Management and English Writing. Do not assume any 2027 dates, eligibility, pattern or marking without official notice evidence. Preserve the Govt 60% common banking / 40% RBI-specific study allocation when referenced; research work never counts as completed study.
+
+For documentation-only changes, check cross-links, statuses, any machine-readable examples, whitespace, and the full diff for credentials/restricted data. Run existing checks if any, and explicitly report when no executable suite exists. Final reporting must identify branch, commit SHA, changed scope, checks actually run, push outcome, PR URL, latest-head CI evidence and remaining blockers. Mark the current task completed only after its requested implementation and checks pass; leave transport failures explicit in the handoff.
