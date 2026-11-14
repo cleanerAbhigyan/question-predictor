@@ -1,0 +1,2 @@
+# Runtime and tests use only the Python standard library.
+ruff==0.14.4

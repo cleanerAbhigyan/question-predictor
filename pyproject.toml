@@ -1,0 +1,13 @@
+[project]
+name = "question-predictor-audit"
+version = "0.1.0"
+description = "Offline metadata-only research source audit"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "B", "UP"]
