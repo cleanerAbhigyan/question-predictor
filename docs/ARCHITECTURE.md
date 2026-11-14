@@ -1,6 +1,6 @@
 # Proposed research architecture
 
-Status: Phase 0 design only. No CLI, ingestion engine, model pipeline, database, API integration or export tooling exists. Python-first refers to a future local research CLI; the export boundary remains language-independent.
+Status: the pipeline below remains the Phase 0 proposal except for the **Phase 1A offline metadata registry/audit CLI and explicit private checksum receipts**, now implemented in `predictor/`. No extraction/ingestion engine, model pipeline, database, API integration or export tooling exists. See the [implemented subset](SOURCE_REGISTRY_FORMAT.md).
 
 ## Data flow and trust boundaries
 
@@ -17,7 +17,7 @@ Each stage consumes immutable versioned inputs, writes a new derived revision, a
 
 ## Proposed local implementation approach
 
-A later task may introduce a small Python package and CLI with explicit stages, local JSON/JSONL records and manifests, and optional local indexing only when useful. Schema validation, deterministic ordering and fixtures would precede ingestion. No web app, hosted service, vector database, orchestration service or production infrastructure is needed for this design.
+Phase 1A uses a small standard-library Python package and CLI, JSON candidate/slot metadata, strict runtime validation and deterministic JSON/Markdown reporting. Only `register-local` can read explicitly supplied raw bytes, after human acquisition/personal-analysis clearance; its private receipts never enter public reports. Later tasks must introduce evidence-bearing corpus stages and schemas separately. No web app, hosted service, vector database, orchestration service or production infrastructure is needed for this design.
 
 Raw bytes and private review notes stay in controlled local storage. Approved public metadata can enter Git only after content/rights review; an ignore rule does not authorize publication. Public manifests must not expose private paths, signed URLs, credentials, restricted excerpts or reviewer personal information. Record internal references where public evidence cannot be redistributed and state public reproducibility limitations.
 

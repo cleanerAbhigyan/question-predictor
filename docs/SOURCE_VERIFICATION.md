@@ -1,6 +1,14 @@
 # Proposed source verification procedure
 
-Status: Phase 0 procedure only. No historical papers have been acquired, transcribed, authenticated or approved by this milestone. No question/answer dataset is included.
+Status: the procedure below remains the research design; Phase 1A implements its metadata discovery subset. No historical papers have been acquired, transcribed, authenticated or approved by this milestone. No question/answer dataset is included.
+
+## Current Phase 1A evidence — 2026-11-14
+
+The [versioned public registry](../registry/sources.json) is the current input; its [generated report](SOURCE_AUDIT_REPORT.md) replaces the discovery-only baseline below for current availability. Six canonical landing pages were read: both RBI sample/archive references, ixamBee, Oliveboard, Career Power and C4S. Only attributed short metadata observations are stored, with per-claim source references and review timestamps. Neither PDF links nor interactive tests were opened. All five permission scopes remain unknown, and no papers/keys are approved.
+
+All 16 Notion child slots were read live and returned blank. The report keeps this observation separate from external provider leads. It distinguishes Phase I GA/English/Quant/Reasoning and Phase II ESI/FM/English Writing; `combined` means only a collection-level lead. The 2020 label/link is unverified and proves no exam occurrence. RBI archive HTML lists older sample material; official category applies only to the inspected HTML references, not to uninspected papers or a modern corpus. Provider year/phase/session claims have not been independently authenticated against notices.
+
+Use the [acquisition guide](SOURCE_ACQUISITION_GUIDE.md) for permitted Chrome/direct downloads and opt-in private checksums. The [implemented format](SOURCE_REGISTRY_FORMAT.md) rejects public raw text, acquired-file hashes/paths, unsafe URLs and paper approval states. Evidence-bearing paper verification, partial/complete paper status and answer approval remain future scoped work. Public metadata review and private acquisition clearance do not authorize external model ingestion or redistribution.
 
 ## Candidate discovery inventory as of 2026-11-07
 

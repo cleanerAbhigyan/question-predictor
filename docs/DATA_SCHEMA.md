@@ -1,6 +1,6 @@
 # Proposed research record contracts
 
-Status: design only; no machine-readable schema, validator or records are delivered in Phase 0. Field names below are proposed contracts for later implementation. There are no historical-paper examples or sample observations in this document.
+Status: the eight contracts below remain proposals delivered in Phase 0. Phase 1A implements a narrower [metadata format](SOURCE_REGISTRY_FORMAT.md) for source candidates, research slots, assertion ledgers and private acquisition receipts, with strict runtime validation. It does not implement SourceDocument/PYQ admission or question records. There are no historical-paper examples or sample observations in this document.
 
 ## Identity, revisions and missingness
 

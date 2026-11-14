@@ -1,10 +1,12 @@
 # Current Codex task — question-predictor
 
-**Status:** Ready for implementation (not completed).
+**Status:** Completed — awaiting next task.
 **Task:** Phase 1A — Source Registry and PYQ Availability Audit.
 **Full instructions:** [Phase 1A Codex implementation task](prompts/2026-11-07-phase-1a-source-registry-audit.md)
 **Repository:** [cleanerAbhigyan/question-predictor](https://github.com/cleanerAbhigyan/question-predictor)
 **Active branch:** `feature`; continue on the **existing [PR #1](https://github.com/cleanerAbhigyan/question-predictor/pull/1)**. Do not create another branch/PR, force-push or merge into `main`.
+
+**Completion evidence:** Phase 1A metadata CLI/registry, audit reports, safe acquisition guide and tests/CI are implemented. See [development log](DEVELOPMENT_LOG.md), [availability report](SOURCE_AUDIT_REPORT.md) and [format](SOURCE_REGISTRY_FORMAT.md). Six landing leads and 16 checked blank Notion slots establish no acquired or approved paper. The archived task remains unchanged. Stop pending a new task; do not start Phase 1B.
 
 ## How to run
 

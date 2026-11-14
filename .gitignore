@@ -37,3 +37,8 @@ htmlcov/
 *.zip
 *.sqlite
 *.sqlite3
+
+# Build metadata if the local package is installed later
+*.egg-info/
+/build/
+/dist/

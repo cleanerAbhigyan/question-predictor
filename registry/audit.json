@@ -1,0 +1,1554 @@
+{
+  "acquired_papers": 0,
+  "approved_papers": 0,
+  "as_of": "2026-11-14T09:53:59Z",
+  "candidate_count": 6,
+  "candidates": [
+    {
+      "access_state": "landing_read",
+      "answer_key": null,
+      "answer_status": "unknown",
+      "authentication_status": "unreviewed",
+      "candidate_id": "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+      "claims": [
+        {
+          "evidence_refs": [
+            "ev-17270164-aa77-56c1-b968-edd6aff81de2"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2019
+        },
+        {
+          "evidence_refs": [
+            "ev-17270164-aa77-56c1-b968-edd6aff81de2"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2020
+        },
+        {
+          "evidence_refs": [
+            "ev-17270164-aa77-56c1-b968-edd6aff81de2"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-17270164-aa77-56c1-b968-edd6aff81de2"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-17270164-aa77-56c1-b968-edd6aff81de2"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2024
+        },
+        {
+          "evidence_refs": [
+            "ev-17270164-aa77-56c1-b968-edd6aff81de2"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2025
+        }
+      ],
+      "completeness_status": "unknown",
+      "content_hash": null,
+      "content_kind": "landing_page",
+      "discoverability": "links_advertised",
+      "evidence_refs": [
+        "ev-17270164-aa77-56c1-b968-edd6aff81de2"
+      ],
+      "example_only": false,
+      "landing_url": "https://www.careerpower.in/rbi-grade-b-previous-year-question-papers.html",
+      "missing_reasons": {
+        "answer_key": "not_checked",
+        "content_hash": "not_acquired",
+        "paper_identity": "unverified",
+        "published_on": "not_provided"
+      },
+      "paper_identity": null,
+      "provider": "Career Power",
+      "published_on": null,
+      "readability_status": "unreviewed",
+      "review_status": "pending",
+      "revision": 1,
+      "rights": {
+        "acquisition": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "model_ingestion": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "personal_analysis": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "public_redistribution": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "quotation": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        }
+      },
+      "source_category": "unverified",
+      "title": "Career Power historical-paper landing lead",
+      "unresolved": [
+        "The 2020 link is an unverified claim, not evidence of an exam or a correctly labeled paper.",
+        "Mixed historical and sample references require document-level identity and source-category review.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    },
+    {
+      "access_state": "landing_read",
+      "answer_key": null,
+      "answer_status": "unknown",
+      "authentication_status": "unreviewed",
+      "candidate_id": "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+      "claims": [
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2018
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2019
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2021
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {},
+          "paper": "combined",
+          "phase": "I",
+          "session": "shift_1",
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {},
+          "paper": "combined",
+          "phase": "I",
+          "session": "shift_2",
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {},
+          "paper": "combined",
+          "phase": "I",
+          "session": "shift_1",
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {},
+          "paper": "combined",
+          "phase": "I",
+          "session": "shift_2",
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {},
+          "paper": "combined",
+          "phase": "I",
+          "session": "shift_1",
+          "year": 2024
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {},
+          "paper": "combined",
+          "phase": "I",
+          "session": "shift_2",
+          "year": 2024
+        },
+        {
+          "evidence_refs": [
+            "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2025
+        }
+      ],
+      "completeness_status": "unknown",
+      "content_hash": null,
+      "content_kind": "practice_collection",
+      "discoverability": "login_required",
+      "evidence_refs": [
+        "ev-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "example_only": false,
+      "landing_url": "https://www.ixambee.com/previous-year-question-paper/rbi-grade-b-phase-1",
+      "missing_reasons": {
+        "answer_key": "not_checked",
+        "content_hash": "not_acquired",
+        "paper_identity": "unverified",
+        "published_on": "not_provided"
+      },
+      "paper_identity": null,
+      "provider": "ixamBee",
+      "published_on": null,
+      "readability_status": "unreviewed",
+      "review_status": "pending",
+      "revision": 1,
+      "rights": {
+        "acquisition": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "model_ingestion": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "personal_analysis": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "public_redistribution": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "quotation": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        }
+      },
+      "source_category": "memory_based",
+      "title": "ixamBee Phase I collection lead",
+      "unresolved": [
+        "Test access was not attempted; advertised PDFs and question completeness were not inspected.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    },
+    {
+      "access_state": "landing_read",
+      "answer_key": null,
+      "answer_status": "unknown",
+      "authentication_status": "unreviewed",
+      "candidate_id": "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+      "claims": [
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2019
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2021
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2024
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "ESI",
+          "phase": "II",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "FM",
+          "phase": "II",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "ESI",
+          "phase": "II",
+          "session": null,
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "FM",
+          "phase": "II",
+          "session": null,
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "ESI",
+          "phase": "II",
+          "session": null,
+          "year": 2024
+        },
+        {
+          "evidence_refs": [
+            "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "FM",
+          "phase": "II",
+          "session": null,
+          "year": 2024
+        }
+      ],
+      "completeness_status": "unknown",
+      "content_hash": null,
+      "content_kind": "practice_collection",
+      "discoverability": "login_required",
+      "evidence_refs": [
+        "ev-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "example_only": false,
+      "landing_url": "https://www.oliveboard.in/rbi-grade-b-previous-year-papers/",
+      "missing_reasons": {
+        "answer_key": "not_checked",
+        "content_hash": "not_acquired",
+        "paper_identity": "unverified",
+        "published_on": "not_provided"
+      },
+      "paper_identity": null,
+      "provider": "Oliveboard",
+      "published_on": null,
+      "readability_status": "unreviewed",
+      "review_status": "pending",
+      "revision": 1,
+      "rights": {
+        "acquisition": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "model_ingestion": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "personal_analysis": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "public_redistribution": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "quotation": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        }
+      },
+      "source_category": "memory_based",
+      "title": "Oliveboard Phase I and II collection lead",
+      "unresolved": [
+        "Summary and detailed listings differ in year coverage; unlabelled sessions were not assigned a year.",
+        "No English Writing paper is established by the inspected listings.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    },
+    {
+      "access_state": "landing_read",
+      "answer_key": null,
+      "answer_status": "unknown",
+      "authentication_status": "unreviewed",
+      "candidate_id": "cand-7bd48b38-ab85-53c4-9905-9569ccf36d12",
+      "claims": [],
+      "completeness_status": "unknown",
+      "content_hash": null,
+      "content_kind": "sample_archive",
+      "discoverability": "links_advertised",
+      "evidence_refs": [
+        "ev-7bd48b38-ab85-53c4-9905-9569ccf36d12"
+      ],
+      "example_only": false,
+      "landing_url": "https://rbi.org.in/scripts/Sample_papers.aspx",
+      "missing_reasons": {
+        "answer_key": "not_checked",
+        "content_hash": "not_acquired",
+        "paper_identity": "unverified",
+        "published_on": "not_provided"
+      },
+      "paper_identity": null,
+      "provider": "Reserve Bank of India",
+      "published_on": null,
+      "readability_status": "unreviewed",
+      "review_status": "pending",
+      "revision": 1,
+      "rights": {
+        "acquisition": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "model_ingestion": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "personal_analysis": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "public_redistribution": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "quotation": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        }
+      },
+      "source_category": "official",
+      "title": "RBI sample-paper index lead",
+      "unresolved": [
+        "Official category applies to the landing page only; paper identity and rights remain unverified.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    },
+    {
+      "access_state": "landing_read",
+      "answer_key": null,
+      "answer_status": "unknown",
+      "authentication_status": "unreviewed",
+      "candidate_id": "cand-870a9569-93c1-5f25-99b9-79c55b06c93a",
+      "claims": [
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "combined",
+          "phase": "I",
+          "session": null,
+          "year": 2024
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "ESI",
+          "phase": "II",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "FM",
+          "phase": "II",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "English Writing",
+          "phase": "II",
+          "session": null,
+          "year": 2022
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "ESI",
+          "phase": "II",
+          "session": null,
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "FM",
+          "phase": "II",
+          "session": null,
+          "year": 2023
+        },
+        {
+          "evidence_refs": [
+            "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+          ],
+          "missing_reasons": {
+            "session": "not_provided"
+          },
+          "paper": "English Writing",
+          "phase": "II",
+          "session": null,
+          "year": 2023
+        }
+      ],
+      "completeness_status": "unknown",
+      "content_hash": null,
+      "content_kind": "practice_collection",
+      "discoverability": "links_advertised",
+      "evidence_refs": [
+        "ev-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "example_only": false,
+      "landing_url": "https://c4scourses.in/previous-year-question-papers/rbi-grade-b-previous-year-questions-phase-1-phase-2-2024-2023-2022/",
+      "missing_reasons": {
+        "answer_key": "not_checked",
+        "content_hash": "not_acquired",
+        "paper_identity": "unverified",
+        "published_on": "not_provided"
+      },
+      "paper_identity": null,
+      "provider": "C4S Courses",
+      "published_on": null,
+      "readability_status": "unreviewed",
+      "review_status": "pending",
+      "revision": 1,
+      "rights": {
+        "acquisition": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "model_ingestion": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "personal_analysis": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "public_redistribution": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "quotation": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        }
+      },
+      "source_category": "memory_based",
+      "title": "C4S memory-based collection lead",
+      "unresolved": [
+        "The page-level PDF form requests contact details; it was not submitted.",
+        "The 2024 Phase II reference includes video; no corresponding paper was acquired.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    },
+    {
+      "access_state": "landing_read",
+      "answer_key": null,
+      "answer_status": "unknown",
+      "authentication_status": "unreviewed",
+      "candidate_id": "cand-9a0c3099-722f-59b9-8146-f3deb09bbe93",
+      "claims": [],
+      "completeness_status": "unknown",
+      "content_hash": null,
+      "content_kind": "sample_archive",
+      "discoverability": "links_advertised",
+      "evidence_refs": [
+        "ev-9a0c3099-722f-59b9-8146-f3deb09bbe93"
+      ],
+      "example_only": false,
+      "landing_url": "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=2817",
+      "missing_reasons": {
+        "answer_key": "not_checked",
+        "content_hash": "not_acquired",
+        "paper_identity": "unverified",
+        "published_on": "not_provided"
+      },
+      "paper_identity": null,
+      "provider": "Reserve Bank of India",
+      "published_on": null,
+      "readability_status": "unreviewed",
+      "review_status": "pending",
+      "revision": 1,
+      "rights": {
+        "acquisition": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "model_ingestion": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "personal_analysis": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "public_redistribution": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        },
+        "quotation": {
+          "evidence_refs": [],
+          "missing_reason": "not_checked",
+          "status": "unknown"
+        }
+      },
+      "source_category": "official",
+      "title": "RBI General DR archival reference",
+      "unresolved": [
+        "Older sample references do not establish 2018 to 2025 paper availability.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    }
+  ],
+  "cells": [
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6815dbc86d500be2d3675",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2018
+    },
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6815dbc86d500be2d3675",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2018
+    },
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6815dbc86d500be2d3675",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2018
+    },
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6815dbc86d500be2d3675",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2018
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68170a2feecbca717691f",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "missing",
+      "year": 2018
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68170a2feecbca717691f",
+      "paper": "FM",
+      "phase": "II",
+      "status": "missing",
+      "year": 2018
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68170a2feecbca717691f",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "missing",
+      "year": 2018
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68120ab27e2903296974f",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2019
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68120ab27e2903296974f",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2019
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68120ab27e2903296974f",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2019
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68120ab27e2903296974f",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2019
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681e6bb68e4cd554602b0",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "missing",
+      "year": 2019
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681e6bb68e4cd554602b0",
+      "paper": "FM",
+      "phase": "II",
+      "status": "missing",
+      "year": 2019
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681e6bb68e4cd554602b0",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "missing",
+      "year": 2019
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681909b77e5e17cd8261c",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2020
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681909b77e5e17cd8261c",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2020
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681909b77e5e17cd8261c",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2020
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681909b77e5e17cd8261c",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2020
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681f8937bc605dd225d1b",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "missing",
+      "year": 2020
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681f8937bc605dd225d1b",
+      "paper": "FM",
+      "phase": "II",
+      "status": "missing",
+      "year": 2020
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681f8937bc605dd225d1b",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "missing",
+      "year": 2020
+    },
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6818982b7cc06b5bda247",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2021
+    },
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6818982b7cc06b5bda247",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2021
+    },
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6818982b7cc06b5bda247",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2021
+    },
+    {
+      "candidate_ids": [
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6818982b7cc06b5bda247",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2021
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681278e6ed3d9e3dec6db",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "missing",
+      "year": 2021
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681278e6ed3d9e3dec6db",
+      "paper": "FM",
+      "phase": "II",
+      "status": "missing",
+      "year": 2021
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681278e6ed3d9e3dec6db",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "missing",
+      "year": 2021
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681f594d1ce4869761a41",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2022
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681f594d1ce4869761a41",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2022
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681f594d1ce4869761a41",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2022
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681f594d1ce4869761a41",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2022
+    },
+    {
+      "candidate_ids": [
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681749d90dd7b90ec9791",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2022
+    },
+    {
+      "candidate_ids": [
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681749d90dd7b90ec9791",
+      "paper": "FM",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2022
+    },
+    {
+      "candidate_ids": [
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681749d90dd7b90ec9791",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2022
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6811b8255e7956f78d55e",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2023
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6811b8255e7956f78d55e",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2023
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6811b8255e7956f78d55e",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2023
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6811b8255e7956f78d55e",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2023
+    },
+    {
+      "candidate_ids": [
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6811cbd4ed9f9bd34d1f6",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2023
+    },
+    {
+      "candidate_ids": [
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6811cbd4ed9f9bd34d1f6",
+      "paper": "FM",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2023
+    },
+    {
+      "candidate_ids": [
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6811cbd4ed9f9bd34d1f6",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2023
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68101b1f2eca1e0319a24",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2024
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68101b1f2eca1e0319a24",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2024
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68101b1f2eca1e0319a24",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2024
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+        "cand-870a9569-93c1-5f25-99b9-79c55b06c93a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b68101b1f2eca1e0319a24",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2024
+    },
+    {
+      "candidate_ids": [
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6813a8669c52b8e399a19",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2024
+    },
+    {
+      "candidate_ids": [
+        "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6813a8669c52b8e399a19",
+      "paper": "FM",
+      "phase": "II",
+      "status": "lead_found",
+      "year": 2024
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6813a8669c52b8e399a19",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "missing",
+      "year": 2024
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6816fae4ae231cf60a35e",
+      "paper": "GA",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2025
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6816fae4ae231cf60a35e",
+      "paper": "English",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2025
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6816fae4ae231cf60a35e",
+      "paper": "Quant",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2025
+    },
+    {
+      "candidate_ids": [
+        "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+        "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a"
+      ],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b6816fae4ae231cf60a35e",
+      "paper": "Reasoning",
+      "phase": "I",
+      "status": "lead_found",
+      "year": 2025
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681eda6b0d11d976d602d",
+      "paper": "ESI",
+      "phase": "II",
+      "status": "missing",
+      "year": 2025
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681eda6b0d11d976d602d",
+      "paper": "FM",
+      "phase": "II",
+      "status": "missing",
+      "year": 2025
+    },
+    {
+      "candidate_ids": [],
+      "exam_occurrence": "unverified",
+      "notion_access": "checked_blank",
+      "notion_url": "https://app.notion.com/p/410504b1d5b681eda6b0d11d976d602d",
+      "paper": "English Writing",
+      "phase": "II",
+      "status": "missing",
+      "year": 2025
+    }
+  ],
+  "exceptions": [
+    {
+      "candidate_id": "cand-17270164-aa77-56c1-b968-edd6aff81de2",
+      "unresolved": [
+        "Mixed historical and sample references require document-level identity and source-category review.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed.",
+        "The 2020 link is an unverified claim, not evidence of an exam or a correctly labeled paper."
+      ]
+    },
+    {
+      "candidate_id": "cand-3b4c07c5-ffe2-52a5-8e73-8e894d45a07a",
+      "unresolved": [
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed.",
+        "Test access was not attempted; advertised PDFs and question completeness were not inspected."
+      ]
+    },
+    {
+      "candidate_id": "cand-5b4489fa-85a9-5762-a005-8f8b45aad79b",
+      "unresolved": [
+        "No English Writing paper is established by the inspected listings.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed.",
+        "Summary and detailed listings differ in year coverage; unlabelled sessions were not assigned a year."
+      ]
+    },
+    {
+      "candidate_id": "cand-7bd48b38-ab85-53c4-9905-9569ccf36d12",
+      "unresolved": [
+        "Official category applies to the landing page only; paper identity and rights remain unverified.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    },
+    {
+      "candidate_id": "cand-870a9569-93c1-5f25-99b9-79c55b06c93a",
+      "unresolved": [
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed.",
+        "The 2024 Phase II reference includes video; no corresponding paper was acquired.",
+        "The page-level PDF form requests contact details; it was not submitted."
+      ]
+    },
+    {
+      "candidate_id": "cand-9a0c3099-722f-59b9-8146-f3deb09bbe93",
+      "unresolved": [
+        "Older sample references do not establish 2018 to 2025 paper availability.",
+        "Publication date and action-scoped permission remain unknown; no document or key reviewed."
+      ]
+    }
+  ],
+  "notion_slots_recorded": 16,
+  "schema_version": "1.0.0"
+}
